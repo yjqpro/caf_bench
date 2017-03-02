@@ -1,0 +1,5 @@
+clock                type      id        time           usr            sys            mem
+6379535928           worker    0         0              0              0              0
+6379535928           worker    1         0              0              0              0
+6379535928           worker    2         0              0              0              0
+6379535928           worker    3         0              0              0              0

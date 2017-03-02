@@ -4,4 +4,4 @@
 #export GYP_DEFINES="OS=ios chromium_ios_signing=0 clang_xcode=1 use_system_libcxx=1"
 #export GYP_DEFINES="OS=ios chromium_ios_signing=0 clang_xcode=1"
 export GYP_GENERATORS=ninja
-python build/gyp_win.py --depth=. --no-circular-check -Ibuild\common.gypi caf_bench\caf_bench.gyp
+python build/gyp_win.py --depth=. --no-circular-check -Ibuild/common.gypi caf_bench/caf_bench.gyp

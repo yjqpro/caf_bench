@@ -1,0 +1,34 @@
+
+## Build generated
+/out
+/build/Debug
+/build/Release
+/build/*.pyc
+
+## visual studio
+/.vs
+*.VC.db
+*.vcxproj
+*.filters
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.props
+*.aps
+*.ipch
+*.user
+*.VC.VC.opendb
+
+
+## mac
+.DS_Store
+
+## xcode
+xcuserdata/
+/build/*.xcodeproj
+/build/*.xcworkspace
+
+#CTP
+*.con
+

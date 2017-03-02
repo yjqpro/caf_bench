@@ -1,0 +1,6 @@
+[submodule "tools/gyp"]
+	path = tools/gyp
+	url = https://chromium.googlesource.com/external/gyp
+[submodule "third_party/actor-framework"]
+	path = third_party/actor-framework
+	url = https://github.com/yjqpro/actor-framework.git
